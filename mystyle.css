@@ -111,7 +111,8 @@ ul li a
 .wrapper ul li:hover .submenu1 ul
 {
 	display: grid;
-	margin: 10px;
+	margin: 20px;
+	margin-top: -1px;
 	
 }
 .wrapper ul li:hover .submenu1 ul li{
