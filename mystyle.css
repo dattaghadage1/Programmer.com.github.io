@@ -34,7 +34,7 @@
 #top_right
 {
 	float:right;
-	/* margin-right: 150px; */
+	margin-right: 50px;
 }
 #top_div
 {
@@ -73,7 +73,7 @@
 
 ul li
 {
-	width:176px;
+	width: 196px;
 	display:inline-block;
 	height:35px;
 	line-height:35px;
