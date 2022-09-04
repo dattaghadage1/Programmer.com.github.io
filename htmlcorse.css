@@ -1,0 +1,10 @@
+body{
+ background-color: rgb(241, 226, 202);
+ /* background-repeat: no-repeat; */
+}
+
+
+#ht1 pre{
+    color: black;
+    font-size: 20px;
+}
