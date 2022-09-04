@@ -18,9 +18,11 @@
 }
 .dark
 {
-	width: auto;
+	
 	background-color:#31353d;
-	color:white;       	 	
+	color:white;   
+	
+	 	 	
 	
 }
 .light
@@ -133,7 +135,7 @@ ul li a
 
 #slider_image img
 {
-	width:970px;
+	width:960px;
 	border:1px solid gray;
 	padding:15px;
 	background-color:#eee;
